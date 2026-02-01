@@ -1,1 +1,0 @@
-// Componente removido conforme solicitado pelo usuário.
